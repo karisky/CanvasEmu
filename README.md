@@ -1,8 +1,7 @@
 ## CanvasEmu Information
 CanvasEmu is the branch of Canvas made for Emulators by fixing the package name of canvas, this project is handled by [Yunnie (yunkunjp)](https://github.com/yunkunjp). to get the official version of canvas for Android Phones Only, go to [__CanvasCord__](https://discord.com/invite/autowax) or goto [__Canvas GitHub Releases__](https://github.com/lukas0x1/SML-filehost/releases).
 
-
-Canvas (Sky_ModLoader) is a tool made by [artDev (artdeell)](https://github.com/artdeell) & [Lukas (lukas0x1)](https://github.com/lukas0x1) for Sky:COTL that backdoors the injection block and allows users to add or create Libraries and Mods for the game. It uses the [__.so__](1) format for loading mods and the app itself only uses __~15 MB__ of your phones storage.
+Canvas (Sky_ModLoader) is a tool made by [artDev (artdeell)](https://github.com/artdeell) & [Lukas (lukas0x1)](https://github.com/lukas0x1) for Sky: Children of The Light (Sky:CoTL) that backdoors the injection block and allows users to add or create Libraries and Mods for the game. It uses the [__.so__](1) format for loading mods and the app itself only uses __~15 MB__ of your phones storage.
 
 
 ## How to Install
