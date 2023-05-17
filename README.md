@@ -1,5 +1,5 @@
 ## CanvasEmu Information
-CanvasEmu is the branch of Canvas made for Emulators by fixing the package name of canvas, this project is handled by [Yunnie (yunkunjp)](https://github.com/yunkunjp). to get the official version of canvas for Android Phones Only, go to [__CanvasCord__](https://discord.com/invite/autowax) or goto [__Canvas GitHub Releases__](https://github.com/lukas0x1/SML-filehost/releases).
+CanvasEmu is the branch of Canvas made for Emulators by fixing the package name of canvas, this project is handled by [Yunnie (yunkunjp)](https://github.com/yunkunjp). to get the official version of canvas for Android Phones Only, go to [__CanvasCord__](https://discord.com/invite/thatgamecompany) or goto [__Canvas GitHub Releases__](https://github.com/lukas0x1/SML-filehost/releases).
 
 Canvas (Sky_ModLoader) is a tool made by [artDev (artdeell)](https://github.com/artdeell) & [Lukas (lukas0x1)](https://github.com/lukas0x1) for Sky: Children of The Light (Sky:CoTL) that allows users to add or create Libraries and Mods for the game. It uses the [__.so__](1) format for loading mods and the app itself only uses __~15 MB__ of your phones storage.
 
@@ -45,10 +45,10 @@ You will need to set your graphics settings to around what is listed below:
 
 ------------------------------------
 
-4. __Install CanvasEmu and Mods__. After installing Sky:COTL you can install CanvasEmu, if you haven't already downloaded the CanvasEmu file from the Releases Page do so. After installation you will need to open up the Mod Manager. you can install mods from [CanvasCord](https://discord.com/invite/autowax) or goto [The Libmod Library](https://github.com/thatskymod/Sky-CotL-Scripts/tree/gh-actions-test/Canvas/Libs), after you installed CanvasEmu correctly and have Selected your mods, you can enjoy being a Sky:COTL 'Hacker' (You'll become a real hacker when you make libraries for canvas).
+4. __Install CanvasEmu and Mods__. After installing Sky:COTL you can install CanvasEmu, if you haven't already downloaded the CanvasEmu file from the Releases Page do so. After installation you will need to open up the Mod Manager. you can install mods from [CanvasCord](https://discord.com/invite/thatgamecompany) or goto [The Libmod Library](https://github.com/thatskymod/Sky-CotL-Scripts/tree/gh-actions-test/Canvas/Libs), after you installed CanvasEmu correctly and have Selected your mods, you can enjoy being a Sky:COTL 'Hacker' (You'll become a real hacker when you make libraries for canvas).
 
 ## Issues
-If canvas wont launch or it's crashing non-stop, there might have been some mistakes you have made along the installation process or other things that we can't really fix. If you need to report a bug, make an issues post on this repo, or go to [CanvasCord](https://discord.com/invite/autowax) and submit a support ticket with the tag __CanvasEmu Bug Report__
+If canvas wont launch or it's crashing non-stop, there might have been some mistakes you have made along the installation process or other things that we can't really fix. If you need to report a bug, make an issues post on this repo, or go to [CanvasCord](https://discord.com/invite/thatgamecompany) and submit a support ticket with the tag __CanvasEmu Bug Report__
 
 *Q1: I can't login using my google account, neither my other account's! How do I fix this!*
 Only way currently to fix this is to instead link a HUAWEI ID and login though that. This is because HUAWEI lets you login even if a browser is untrustworthy, and doesn't make an error message every time you try to login.
