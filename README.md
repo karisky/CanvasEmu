@@ -1,10 +1,5 @@
-# 注意
+# CanvasEmu Update Notice
 
-我已經決定放棄 CanvasEmu，我還有其他想做的項目以及專業的其他事情，比如學校和其他事情。這意味著 CanvasEmu 在收到消息時將永遠不會回來。任何對 CanvasEmu 的下載都已被刪除。不要相信聲稱擁有更新的 CanvasEmu 的騙子。這就是我想說的，這是與 Canvas 和製作 mod 的告別。
+This is still outdated, but I will possibly make an update in the future for CanvasEmu. Even though the PC version is released there is no public cheats yet as of writing this message, when there is you wont really need this. To wrap this up all I have to say is that I might update CanvasEmu to the latest Canvas version and continue posting Emulator patches, other than that just use Canvas on your phone (you're only really going to use it for DukunCabul unless you don't).
 
-再見。
-
-# notice
-I've decided to ditch CanvasEmu, I have other projects I want to do and other things professionally like school and stuff. This means CanvasEmu will never come back when it receives a message. Any downloads to CanvasEmu have been removed. Don't believe scammers who claim to have an updated CanvasEmu. That's all I want to say, it's goodbye to Canvas and making mods.
-
-goodbye.
+Other than all of that chunk of text, why don't you take a look at the development of abomination for the PC version of Sky: Children of the Light! Telegram: https://t.me/abominationsky
